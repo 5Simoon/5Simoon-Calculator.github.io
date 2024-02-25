@@ -1,11 +1,9 @@
 "Everything should work on other websites (Python Code Preview)"
 
 n1 = int(input('Enter 1st number: '))
-n2 = int(input('Enter 2nd number: '))
+n2 = int(input('Enter 2nd number: ')
 
-
-
-"WprowadÅº liczby w miejsce"
+         
 "Put numbers in place"
 
 
